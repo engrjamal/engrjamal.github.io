@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Home / Main Portfolio Page -->
+  <url>
+    <loc>https://engrjamal.github.io/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <image:image>
+      <image:loc>https://engrjamal.github.io/assets/img/profile-img.jpg</image:loc>
+      <image:title>Engr. Md Jamal Uddin (প্রকৌশলী মোঃ জামাল উদ্দিন)</image:title>
+      <image:caption>Assistant Manager (Software) at NPCBL, Best-Selling CSE and IT Job Solution Author, Founder of Stackvaly and DUET Admission</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://engrjamal.github.io/assets/img/portfolio/duetadmission.jpg</image:loc>
+      <image:title>DUET Admission - duetadmission.com</image:title>
+      <image:caption>DUET Admission online preparation and model test platform</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://engrjamal.github.io/assets/img/portfolio/stackvaly.jpg</image:loc>
+      <image:title>Stackvaly - stackvaly.com</image:title>
+      <image:caption>Stackvaly online shopping marketplace and bookstore</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://engrjamal.github.io/assets/img/portfolio/stackit-app.jpg</image:loc>
+      <image:title>Stack IT Recent Question Bank Android App</image:title>
+      <image:caption>Android study app by Md. Jamal Uddin for recent IT and CSE job exams</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://engrjamal.github.io/assets/img/portfolio/stack-it-job-solution.jpg</image:loc>
+      <image:title>Stack IT Job Solution (CSE) Book</image:title>
+      <image:caption>Best-selling CSE job preparation guide by Engr. Md. Jamal Uddin</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://engrjamal.github.io/assets/img/portfolio/stack-it-bpsc.jpg</image:loc>
+      <image:title>স্ট্যাক আইটি বিপিএসসি স্পেশাল (IT/CSE)</image:title>
+      <image:caption>BPSC technical recruitment preparation book by Engr. Md. Jamal Uddin</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://engrjamal.github.io/assets/img/portfolio/rokomari-stack-it.jpg</image:loc>
+      <image:title>Stack IT Publication on Rokomari</image:title>
+      <image:caption>Official publisher collection of Engr. Md. Jamal Uddin on Rokomari</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Portfolio Details Page -->
+  <url>
+    <loc>https://engrjamal.github.io/portfolio-details.html</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
